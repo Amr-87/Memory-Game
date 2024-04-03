@@ -1,7 +1,8 @@
 body {
     background: url(./assets/brain.jpg);
     background-size: 30% auto;
-    background-position: center;
+    background-size:contain  ;
+    background-position: center ;
     color: white;
     height: 100vh;
 }
